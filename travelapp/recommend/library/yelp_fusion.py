@@ -18,14 +18,13 @@ except ImportError:
     from urllib import urlencode
 
 ### NOTE: 
-##YELP API KEY: UiE_rtAotY-j8GCikJZpNdVndX1UaVdud3owyFkKJKClcC9RPnhM5RGMQ2lzLKjPbOARaccjJ75F5MBlhC2IBpFIJunyK7-A_iF1kebXXTOUEWGvDgfQJWxVPFGiZXYx
-
+##YELP API KEY: 
 ##YELP CLIENT  ID: UENU3qwROQIQQzu2EYLemg
 
 from yelp.client import Client
 
 #My API Key
-API_KEY = 'UiE_rtAotY-j8GCikJZpNdVndX1UaVdud3owyFkKJKClcC9RPnhM5RGMQ2lzLKjPbOARaccjJ75F5MBlhC2IBpFIJunyK7-A_iF1kebXXTOUEWGvDgfQJWxVPFGiZXYx'
+API_KEY = 'HIDDEN'
 client = Client(API_KEY)
 
 #API Constnats
