@@ -6,7 +6,7 @@ from pprint import pprint
 import pandas as pd
 
 #google maps api key; 
-API_KEY = 'AIzaSyCgpQll2zLmdazhsE_NMvSRLeRibL3ug58'
+API_KEY = 'HIDDEN'
 map_client = googlemaps.Client(API_KEY)
 
 #work_place_address = ' 1 Market st, San Francisco, CA'
