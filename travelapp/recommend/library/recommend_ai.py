@@ -11,7 +11,7 @@ import google.generativeai as genai
 ##THIS IS AN IMPORTANT POSSIBILITY 
 
 #Setup API
-GOOGLE_API_KEY= 'AIzaSyA6YBiTi4GbKZB6-pu1f7HoALNKmxJc5pM'
+GOOGLE_API_KEY= 'HIDDEN'
 genai.configure(api_key=GOOGLE_API_KEY)
 
 #API
